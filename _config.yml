@@ -1,16 +1,17 @@
 # main text of home
-name: Niveditha Ram
+name: Shrinidhi Kulkarni
 bio: 'Physics, Teaching, Engineering.'
 
 # twitter summary info
-description: A blog about Physics and teaching science
+description: Innately curious, ridiculously organized, tech and physics aficionado. 
+Also fairly adept at the arts – photographer, part-time singer and writer. Jack of several trades, trying to master a few.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-# url: http://artiannaswamy.com
+url: http://shrinidhikulkarni.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -22,28 +23,28 @@ highlighter: rouge
 #analytics-google: 'UA-74313908-1'
 
 # if you don't want comments in your posts, set to false
-#disqus: artiannaswamy
+disqus: false
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: NivedithaRam
+twitter: shrinidhi_kulk
 # google: mygoogle
-# instagram: myinstagram
+instagram: a.hungry.traveller
 #pinterest: annasw
-#linkedin: artiannaswamy
+linkedin: shrinidhi-kulkarni
 # youtube: myyoutube
 # spotify: myspotify
-github: NivedithaRam
+github: shrinidhi1994
 # medium: medium
-email: niveditha.ramasubramanian@stonybrook.edu
+email: ssk285@cornell.edu
 
 authors:
-    NivedithaRam:
-        name: Niveditha Ram
-        bio: Physics, Reading, Teaching.
+    shrinidhikulkarni:
+        name: Shrinidhi Kulkarni
+        bio: Chilling
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: NivedithaRam
+        twitter: shrinidhi_kulkarni
 
 
 # do you want a larger site? change the option below
@@ -56,9 +57,9 @@ width: large
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
-research: true
-teaching: true
+projects: true
+# research: true
+# teaching: true
 # if you don't need about or blog, comment them out below
 about: true
 blog: true
